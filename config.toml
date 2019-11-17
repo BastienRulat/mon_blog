@@ -1,5 +1,5 @@
 baseurl = "/"
-languageCode = "en-us"
+languageCode = "fr-fr"
 theme = "hello-friend"
 paginate = 5
 
@@ -15,7 +15,7 @@ paginate = 5
 
 [languages]
   [languages.en]
-    title = "Hello Friend"
+    title = "Hello World"
     subtitle = "A simple theme for Hugo"
     keywords = ""
     copyright = ""
